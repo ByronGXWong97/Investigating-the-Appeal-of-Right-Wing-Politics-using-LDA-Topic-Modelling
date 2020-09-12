@@ -11,7 +11,7 @@ The 50 transcripts and articles are obtained from various reputable sources, pri
 4) Topic modelling with Latent Dirichlet Allocation
 
 # Results
-https://guoxuan97.github.io/images/investigating_right_wing_politics.png?raw=true
+
 In all three campaigns, immigration features as a hot topic. We see tendencies of renationalization; "tendencies of creating ever new borders (and even walls), of linking the nation state and citizenship with nativist body politics" (Wodak 2015). There seems to be some form of social othering, as well as the construction of an antagonism between us versus them (Greven 2016). These have the effect of mobilizing the fears and anxieties of the population, swaying them in favour of conservative politics. As a result, a politics of exclusion and fear is legitimized by the right wing party.
 
 A second feature of right-wing populism is the juxtaposition of an elite (and often corrupt) political class against the rest of the populace (Greven 2016). This featured most prominently in Trump's campaign in his criticism of the Clinton administration and his derogatory comments towards political rival Hillary Clinton. We also note that bread-and-butter issues like healthcare, housing, the economy and tax feature heavily. 
